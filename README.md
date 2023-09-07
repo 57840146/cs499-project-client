@@ -8,9 +8,10 @@ Social media app to cure crippling lonliness
 
 ## Getting Started
 
-### Dependencies
+### Programs you need
 
-* Node.JS , git
+* Node.JS (https://nodejs.org/en)
+* Git (https://git-scm.com/downloads)
 
 ### Clone this repository
 
@@ -41,7 +42,7 @@ npx start
 Contributors names and contact info
 
 Qi Zong Liang
-ex. [@Qizong Liang](https://github.com/qizongliang)
+[@Qizong Liang](https://github.com/qizongliang)
 
 ## Version History
 
