@@ -1,29 +1,39 @@
 # Project Title
 
-Simple overview of use/purpose.
+This is a social media app
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Social media app to cure crippling lonliness
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Node.JS , git
 
-### Installing
+### Clone this repository
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+First clone this repository to the directory you want using git
+```
+git clone https://github.com/57840146/cs499-project-client.git
+```
 
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+
+* Start cmd or go to command line
+
+* Enter into the command line using this command to Go to the folder where it contains the source code
 ```
-code blocks for commands
+cd directory
+```
+
+* Type into the command line to start the react client
+
+```
+npx start
 ```
 
 ## Help
@@ -37,14 +47,11 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Qi Zong Liang
+ex. [@Qizong Liang](https://github.com/qizongliang)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
