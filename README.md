@@ -34,7 +34,7 @@ cd directory
 * Type into the command line to start the react client
 
 ```
-npx start
+npm start
 ```
 
 ## Authors
