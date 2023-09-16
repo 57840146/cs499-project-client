@@ -1,10 +1,10 @@
 # Project Title
 
-This is a social media app
+This is a ecommerce app
 
 ## Description
 
-Social media app to cure crippling lonliness
+Eccommer app
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ cd directory
 * Type into the command line to start the react client
 
 ```
-npx start
+npm start
 ```
 
 ## Authors
