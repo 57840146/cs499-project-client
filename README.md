@@ -1,10 +1,10 @@
 # Project Title
 
-This is a social media app
+This is a ecommerce app
 
 ## Description
 
-Social media app to cure crippling lonliness
+Eccommer app
 
 ## Getting Started
 
