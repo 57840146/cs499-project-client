@@ -1,14 +1,16 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import './index.css'
-import App from './App'
-import { BrowserRouter } from 'react-router-dom'
+import React from "react"
+import ReactDOM from "react-dom"
+import App from "./App"
+// import Head from "./Commom/Header/Head"
+// import Search from "./Commom/Header/Search"
+// import Navbar from "./Commom/Header/Navbar"
 
-const root = ReactDOM.createRoot(document.getElementById('root'))
-root.render(
+ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
+    <App/>
+    {/* <Head/>
+    <Search/>
+    <Navbar/> */}
   </React.StrictMode>,
+  document.getElementById("root")
 )
