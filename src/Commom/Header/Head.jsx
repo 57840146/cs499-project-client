@@ -1,4 +1,5 @@
 import React from "react";
+import 'boxicons'
 
 const Head = ()=>{
     return(
@@ -13,7 +14,8 @@ const Head = ()=>{
                     </div>
                     <div className="right row RText">
                         {/* <label>text</label> */}
-                        <label>Helps</label>
+                        <box-icon name='message-dots' animation='tada-hover'></box-icon>Helps
+                        {/* <label>Helps</label> */}
                         {/* <span>flag</span> */}
                         {/* <label htmlFor=''>EN</label> */}
                         {/* <span>flag</span> */}

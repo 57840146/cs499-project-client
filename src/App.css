@@ -247,3 +247,7 @@ button {
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
 }
+.Xchange{
+  font-size: 36px;
+  color:purple;
+}
