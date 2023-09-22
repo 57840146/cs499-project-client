@@ -13,13 +13,7 @@ const Head = ()=>{
                         <label>email</label>
                     </div>
                     <div className="right row RText">
-                        {/* <label>text</label> */}
                         <box-icon name='message-dots' animation='tada-hover'></box-icon>Helps
-                        {/* <label>Helps</label> */}
-                        {/* <span>flag</span> */}
-                        {/* <label htmlFor=''>EN</label> */}
-                        {/* <span>flag</span> */}
-                        
                     </div>
                 </div>
 
