@@ -1,7 +1,8 @@
 import React, { useState } from "react"
 import "./App.css"
-import { BrowserRouter as Router, Switch} from "react-router-dom"
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom"
 import Header from "./Commom/Header/Header"
+import Pages from "./Pages/Pages"
 
 
 function App(){
@@ -10,7 +11,9 @@ function App(){
                 <Router>
                     <Header/>
                     <Switch>
-                        
+                        <Route path='/' exact>
+                            <Pages/>
+                        </Route>
                     </Switch>
 
                 </Router>
